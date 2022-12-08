@@ -1,0 +1,20 @@
+{
+  "name": "react-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MyButton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamchach/react-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamchach/react-basic/issues"
+  },
+  "homepage": "https://github.com/dreamchach/react-basic#readme"
+}
